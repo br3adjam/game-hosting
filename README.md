@@ -1,10 +1,9 @@
-# PLEASE DONT DMCA THIS REPOSITORY, NO GAME ASSETS OR INTELLECTUAL PROPERTY IS HOSTED HERE, ALL FILES HERE ARE MADE, AND CODED BY, ME (genizy/breadbb)
-# gn-math.github.io
-gn-math is the best unblocked games site to play at school.
-## features:
-- hundreds of links (in the discord)
-- games literally NOBODY has:
-  - most youtube games (bowmasters, magic tiles 3, flappy dunk, hill climb racing, etc.)
+# web soon to be hosted on azure lol
+## games ill hopefully have: (all with dev who ported and original dev credit)
+  - celeste
+
+  idfk
+  leaving rest of original readme here bc im lazy
   - drive mad poki version (200 levels)
   - cheese chompers 3d
   - undertale
@@ -29,5 +28,3 @@ gn-math is the best unblocked games site to play at school.
 - static site so easily deployable
 - works in file:
 - custom software to get almost ANY game
-
-JOIN OUR DISCORD: https://discord.gg/NAFw4ykZ7n
